@@ -1,0 +1,4 @@
+    Question 1 => NO
+    Question 2 => YES
+    Question 3 => NO (It is self closing tag)
+    Question 4 => No 
