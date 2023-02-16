@@ -1,0 +1,15 @@
+     Uses of Anchor 
+    <a href="https://google.com" target="_blank" title="Go To Google">Google</a>
+       (go to external link) 
+
+   <a href="test.html" title="Go To Test Page">Test</a> 
+         (يستخدم ك لينك لصفحه موجوده عند علي الجهاز)
+
+   <a href="#osama" title="Go To Osama">Osama Paragraph</a>
+         (ممكن نستخم ك لينك يوديني علي فقره معينه عن طريق اعطي للفقره دي  id)
+
+   <a href="mailto:o@nn.sa">Contact Me</a>
+       (ممكن نستخدمه ك لينك يوديني علي email)
+  
+
+
