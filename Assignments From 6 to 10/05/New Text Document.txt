@@ -1,8 +1,0 @@
-   title => YES
-   href => No
-   src => No
-   Charset =>No
-   Hidden => YES
-   class => YES
-   Id  =>  YES
-   type => NO
